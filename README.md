@@ -38,3 +38,15 @@ TEST PASSED!
 
 ## Author
 **Meghana R**
+
+## Simulation Result
+
+The UART design was functionally verified using EDA Playground and Icarus Verilog.
+
+- Transmitted Data = A5
+- Received Data = A5
+- TEST PASSED
+
+Simulation screenshot:
+
+![Simulation Result](docs/simulation_result.png)
